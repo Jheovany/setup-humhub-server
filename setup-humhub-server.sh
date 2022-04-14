@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "HubHub Server Setup"
+echo "HumHub Server Setup"
+echo "https://docs.humhub.org/docs/admin/installation"
 
 sudo apt update
 sudo apt install -y apache2
